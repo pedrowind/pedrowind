@@ -4,7 +4,3 @@
 </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrowind/)
-
-<p align="center" >
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowind&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p> <br>
